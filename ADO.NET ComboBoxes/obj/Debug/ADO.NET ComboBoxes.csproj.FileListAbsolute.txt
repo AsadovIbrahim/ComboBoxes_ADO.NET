@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\ADO.NET ComboBoxes\ADO.NET ComboBoxes\bin\Debug\ADO.NET ComboBoxes.exe.config
+C:\Users\Asus\source\repos\ADO.NET ComboBoxes\ADO.NET ComboBoxes\bin\Debug\ADO.NET ComboBoxes.exe
+C:\Users\Asus\source\repos\ADO.NET ComboBoxes\ADO.NET ComboBoxes\bin\Debug\ADO.NET ComboBoxes.pdb
+C:\Users\Asus\source\repos\ADO.NET ComboBoxes\ADO.NET ComboBoxes\obj\Debug\ADO.NET ComboBoxes.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ADO.NET ComboBoxes\ADO.NET ComboBoxes\obj\Debug\ADO.NET ComboBoxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\ADO.NET ComboBoxes\ADO.NET ComboBoxes\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\source\repos\ADO.NET ComboBoxes\ADO.NET ComboBoxes\obj\Debug\App.g.cs
+C:\Users\Asus\source\repos\ADO.NET ComboBoxes\ADO.NET ComboBoxes\obj\Debug\ADO.NET ComboBoxes_MarkupCompile.cache
+C:\Users\Asus\source\repos\ADO.NET ComboBoxes\ADO.NET ComboBoxes\obj\Debug\ADO.NET ComboBoxes_MarkupCompile.lref
+C:\Users\Asus\source\repos\ADO.NET ComboBoxes\ADO.NET ComboBoxes\obj\Debug\MainWindow.baml
+C:\Users\Asus\source\repos\ADO.NET ComboBoxes\ADO.NET ComboBoxes\obj\Debug\ADO.NET ComboBoxes.g.resources
+C:\Users\Asus\source\repos\ADO.NET ComboBoxes\ADO.NET ComboBoxes\obj\Debug\ADO.NET_ComboBoxes.Properties.Resources.resources
+C:\Users\Asus\source\repos\ADO.NET ComboBoxes\ADO.NET ComboBoxes\obj\Debug\ADO.NET ComboBoxes.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ADO.NET ComboBoxes\ADO.NET ComboBoxes\obj\Debug\ADO.NET ComboBoxes.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ADO.NET ComboBoxes\ADO.NET ComboBoxes\obj\Debug\ADO.NET ComboBoxes.exe
+C:\Users\Asus\source\repos\ADO.NET ComboBoxes\ADO.NET ComboBoxes\obj\Debug\ADO.NET ComboBoxes.pdb
